@@ -74,6 +74,7 @@ public class MemberDAO {
 	public List selectMembers(MemberDTO mdto){
 		//MemberDTO mdto = null;
 		List mList = new ArrayList();
+
 		
 		/*
 		try {
